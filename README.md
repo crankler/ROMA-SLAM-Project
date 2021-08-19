@@ -3,25 +3,33 @@
 # ROMA-LAB——SLAM暑期项目安排
 
 >**课程安排：** 姚辰(yaoc@mail.sustech.edu.cn)，朱虎(12032412@mail.sustech.edu.cn)
+>
 >**时间安排：** 2021.6.15——2021.7.31(暂定)
 >
 >**时间要求：** 周一-周五期间，早上和下午做，晚上随意，可在实验室，也可自行安排；
 >
 >​          最迟7.10调通仿真平台；
 >
->**课程要求：** 掌握ROS的入门用法；
+>**课程要求：** 掌握ROS的入门用法; **周末提交每日工作任务，建议以PPT形式上交;**
 >
->　　　　　　熟悉自主机器人各个模块的使用和信息的传递
+>　　　　  熟悉自主机器人各个模块的使用和信息的传递;
 >
->　　　　　　能够熟悉如何调试，替换各个模块，并能进行特定方向的应用展示
+>　　　　  能够熟悉如何调试，替换各个模块，并能进行特定方向的应用展示;
 >
->　　　　　　**本暑期安排仅为ROMA-LAB的课程安排，请切勿生搬硬抄**
+>　　　　  本暑期安排仅为ROMA-LAB的课程安排，请切勿生搬硬抄;　
 >
->​		   周末提交每日工作任务，建议以PPT形式上交
+>         
+>　　　　　　　　
 >
->**学习网站：** https://www.ncnynl.com/，https://github.com/Nlict-RC/course2021-wheeled_robot，  https://github.com/Nlict-RC/course2020-wheeled_robot，
+>**学习网站：** 
 >
->​          ros官网， GitHub， 知乎等
+>- https://www.ncnynl.com/，
+>
+>- https://github.com/Nlict-RC/course2021-wheeled_robot，  
+>
+>- https://github.com/Nlict-RC/course2020-wheeled_robot，
+>
+>- ros官网， GitHub， 知乎等
 >
 >**作业提交：** 代码：C++/python都可
 >
@@ -98,3 +106,5 @@
 
 ---
 
+## QAQ
+// TOOD
